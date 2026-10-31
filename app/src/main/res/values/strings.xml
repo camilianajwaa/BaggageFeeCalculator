@@ -62,7 +62,7 @@
     <string name="copyright">© 2026 CAMILIA NAJWA IMAN BINTI MOHD AMIRULLAH. All rights reserved.</string>
 
     <!-- Website / Share -->
-    <string name="app_url">https://github.com/camilianajwaaa/BaggageFeeCalculator</string>
+    <string name="app_url">https://github.com/camilianajwaa/BaggageFeeCalculator</string>
     <string name="share_text">Try the Baggage Fee Calculator app:</string>
     <string name="share_chooser">Share app via</string>
 </resources>
