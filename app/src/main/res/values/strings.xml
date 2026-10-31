@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Baggage Fee Calculator</string>
+
+    <!-- Banner -->
+    <string name="hero_greeting">Flying soon?</string>
+    <string name="hero_title">Check your baggage\nfee in seconds</string>
+
+    <!-- Inputs -->
+    <string name="label_weight">Baggage weight</string>
+    <string name="hint_weight">Baggage weight (kg)</string>
+    <string name="label_class">Ticket class</string>
+    <string name="class_economy">Economy · 20 kg</string>
+    <string name="class_business">Business · 40 kg</string>
+    <string name="label_rate">Excess rate</string>
+    <string name="hint_rate">Rate per kg (RM)</string>
+
+    <!-- Buttons -->
+    <string name="btn_calculate">Calculate</string>
+    <string name="btn_reset">Reset</string>
+
+    <!-- Helpful notice chips -->
+    <string name="chip_economy">Economy free 20 kg</string>
+    <string name="chip_business">Business free 40 kg</string>
+    <string name="chip_tax" formatted="false">8% service tax</string>
+
+    <!-- Outputs -->
+    <string name="result_estimate">Your estimate</string>
+    <string name="label_excess_weight">Excess weight</string>
+    <string name="label_charge">Excess charge</string>
+    <string name="label_total_big">TOTAL AMOUNT PAYABLE</string>
+
+    <!-- Instructions -->
+    <string name="instruction_title">How to use</string>
+    <string name="step_1">Enter baggage weight</string>
+    <string name="step_2">Pick your ticket class</string>
+    <string name="step_3">Enter the rate per kg</string>
+    <string name="step_4">Tap Calculate</string>
+
+    <!-- Error messages -->
+    <string name="error_weight_empty">Please enter the baggage weight.</string>
+    <string name="error_weight_invalid">Weight must be a number greater than 0.</string>
+    <string name="error_rate_empty">Please enter the rate per kg.</string>
+    <string name="error_rate_invalid">Rate must be a number greater than 0.</string>
+    <string name="error_fix_inputs">Please fix the errors and try again.</string>
+
+    <!-- Menu -->
+    <string name="menu_share">Share</string>
+    <string name="menu_about">About</string>
+
+
+    <!-- About page -->
+    <string name="about_title">About</string>
+    <string name="about_version">Version 1.0</string>
+    <string name="dev_title">Developer</string>
+    <string name="dev_name">Name: CAMILIA NAJWA IMAN BINTI MOHD AMIRULLAH</string>
+    <string name="dev_group">Group: RCDCS2405B</string>
+    <string name="dev_student_no">Student No: 2024670664</string>
+    <string name="dev_programme">Programme Code: CS240</string>
+    <string name="about_app_title">About this app</string>
+    <string name="about_app_text" formatted="false">Estimates the excess baggage fee for air travel using your baggage weight, ticket class and the excess rate per kg. An 8% service tax is included in the total amount payable.</string>
+    <string name="btn_visit">Visit our GitHub page</string>
+    <string name="copyright">© 2026 CAMILIA NAJWA IMAN BINTI MOHD AMIRULLAH. All rights reserved.</string>
+
+    <!-- Website / Share -->
+    <string name="app_url">https://github.com/camilianajwaaa/BaggageFeeCalculator</string>
+    <string name="share_text">Try the Baggage Fee Calculator app:</string>
+    <string name="share_chooser">Share app via</string>
+</resources>
